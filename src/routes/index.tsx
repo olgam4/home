@@ -37,6 +37,7 @@ export default function() {
             <For each={links} children={({ href, alt }) => (
               <li><a class="underline text-blue-500 text-lg" target="_blank" rel="noreferrer" href={href}>{alt}</a></li>
             )} />
+            <p class="neue mt-10 text-white text-3xl -rotate-[10deg]">Graphic design is my passion</p>
           </ul>
           <Image image={minou} size={3} />
         </div>
