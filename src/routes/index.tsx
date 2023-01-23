@@ -17,6 +17,7 @@ const tags = [
 
 const links = [
   { href: 'https://medium.com/@oliviergamache', alt: 'medium' },
+  { href: 'https://github.com/olgam4', alt: 'github' },
   { href: 'https://astrorush.glo.quebec', alt: 'astrorush' },
   { href: 'https://palooza.glo.quebec', alt: 'palooza' },
   { href: 'https://bat.glo.quebec', alt: 'bat' },
