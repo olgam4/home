@@ -36,7 +36,7 @@ export default function() {
         <div class="p-10 flex space-x-10 sm:space-x-[30%]">
           <ul>
             <For each={links} children={({ href, alt }) => (
-              <li><a class="underline text-blue-500 text-lg" target="_blank" rel="noreferrer" href={href}>{alt}</a></li>
+              <li class="mb-4"><a class="border-b-blue-500 border-dashed border-b text-blue-500 text-lg hover:border-b-blue-200 hover:text-blue-200 transition-colors"  target="_blank" rel="noreferrer" href={href}>{alt}</a></li>
             )} />
             <p class="neue mt-10 text-white text-3xl -rotate-[10deg]">Graphic design is my passion</p>
           </ul>
