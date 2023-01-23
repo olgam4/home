@@ -15,7 +15,7 @@ export default function Root() {
         <Meta charset="utf-8" />
         <Meta name="viewport" content="width=device-width, initial-scale=1" />
         <Link rel="manifest" href="/manifest.webmanifest" />
-        <Meta name="description" content="Opinionated, batteries included, PWA using Solid and Vite" />
+        <Meta name="description" content="Welcome to my life *cue simple plan*" />
         <Link rel="icon" href="/favicon.ico" type="image/png" sizes="16x16" />
         <Link rel="apple-touch-icon" href="/pwa-192x192.png" sizes="192x192" />
         <Meta name="theme-color" content="#202A37" />
